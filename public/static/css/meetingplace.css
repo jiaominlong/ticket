@@ -1,0 +1,9 @@
+.label-left{
+    float: left;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+.fa{
+    margin-left: 10px;
+    font-size: 20px;
+}
